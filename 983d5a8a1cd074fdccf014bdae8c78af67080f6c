@@ -16,6 +16,57 @@
       "revId": "983d5a8a1cd074fdccf014bdae8c78af67080f6c",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6a1c49c1_a866b191",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1015362
+      },
+      "writtenOn": "2018-10-29T10:22:15Z",
+      "side": 1,
+      "message": "overall adding informative calculation of preceding days would be preferable for all months.",
+      "revId": "983d5a8a1cd074fdccf014bdae8c78af67080f6c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c1b7aeba_87828271",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1015362
+      },
+      "writtenOn": "2018-10-29T10:22:15Z",
+      "side": 1,
+      "message": "code not applicable in leap years",
+      "revId": "983d5a8a1cd074fdccf014bdae8c78af67080f6c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e2ce2759_5c9e4c33",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1015362
+      },
+      "writtenOn": "2018-10-29T10:22:15Z",
+      "side": 1,
+      "message": "use of dayOfMonth potentially confusing better to use an internal variable",
+      "revId": "983d5a8a1cd074fdccf014bdae8c78af67080f6c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
